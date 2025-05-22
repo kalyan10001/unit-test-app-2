@@ -1,0 +1,6 @@
+[
+  { "name": "Bitcoin", "price": "$28,000" },
+  { "name": "Ethereum", "price": "$1,800" },
+  { "name": "Solana", "price": "$25" },
+  { "name": "Dogecoin", "price": "$0.075" }
+]
