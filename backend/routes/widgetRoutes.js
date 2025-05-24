@@ -1,5 +1,5 @@
 import express from 'express';
-import { getWeather, getCrypto, getNews } from '../controllers/widgetController.js';
+import { getCrypto, getNews, getWeather } from '../controllers/widgetcontroller.js';
 
 const router = express.Router();
 
