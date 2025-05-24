@@ -1,6 +1,17 @@
 [
-  { "name": "Bitcoin", "price": "$28,000" },
-  { "name": "Ethereum", "price": "$1,800" },
-  { "name": "Solana", "price": "$25" },
-  { "name": "Dogecoin", "price": "$0.075" }
+  {
+    "name": "Bitcoin",
+    "price": "$64,000",
+    "image": "https://th.bing.com/th/id/OIP.X7RV8-y3uA-83Vb1-HS2bgHaEo?cb=iwp2&rs=1&pid=ImgDetMain"
+  },
+  {
+    "name": "Ethereum",
+    "price": "$3,200",
+    "image": "https://wallpaperaccess.com/full/1424856.jpg"
+  },
+  {
+    "name": "Cardano",
+    "price": "$0.44",
+    "image": "https://wallpapercave.com/wp/wp4678496.jpg"
+  }
 ]

@@ -1,5 +1,20 @@
-{
-  "location": "Vishakhapatnam",
-  "temp": "30°C",
-  "status": "Sunny"
-}
+[
+  {
+    "city": "New York",
+    "temp": 22,
+    "condition": "Sunny",
+    "image": "https://i.pinimg.com/originals/57/e4/03/57e40361d7486e564ae934006094c498.jpg"
+  },
+  {
+    "city": "London",
+    "temp": 16,
+    "condition": "Rainy",
+    "image": "https://th.bing.com/th/id/OIP.WFoLQNe3-ViEArbhAvWxUwHaHa?cb=iwp2&pid=ImgDet&w=179&h=179&c=7&dpr=1.3"
+  },
+  {
+    "city": "Tokyo",
+    "temp": 27,
+    "condition": "Cloudy",
+    "image": "https://th.bing.com/th/id/OIP.WJdNx-WXpZffa3mmq-IBBQHaFV?cb=iwp2&pid=ImgDet&w=179&h=128&c=7&dpr=1.3"
+  }
+]
