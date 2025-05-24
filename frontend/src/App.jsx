@@ -2,7 +2,7 @@
 import React, { useEffect, useState } from 'react';
 import './App.css';
 
-const API_BASE = 'http://localhost:5000/api/widgets';
+const API_BASE = 'https://unit-test-app-2.onrender.com/api/widgets';
 
 const WidgetCard = ({ title, image, content1, content2 }) => (
   <div className="bg-white rounded-2xl shadow-lg p-4 w-full md:w-[30%] text-center">
